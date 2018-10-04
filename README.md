@@ -1,12 +1,10 @@
-# Brightspace Text Messaging Weekly Scheduler
+# Weekly Schedule Text/Email Messaging
 
-... a 3-paragraph overview of the project that is written AFTER you complete
-the interviews ....
+With this project, I plan to add a text messaging application that will be able to pull from either one or multiple classes on Brightspace in order to display the entire weekly schedule of assignments/exams/homeworks in either a text message format. In addition to this, I would also like to add email functionality to this where an accessible link would be sent to the users phone that would allow them to open up a document on their computer with the information in a more readable format. Text messaging functionality exists for Brightspace already so I believe that I can leverage that existing functionality to extend it.
 
-What do plan to accomplish with this project? (Why am I doing this?)
-What I will create? (Adding functionality to brightspace messaging application)
-How much time do I plan to spend on this project/how feasible do I believe that this project is?
+I chose to attack this specific problem because I find it tedious to check Brightspace frequently for assignment dates every week. It would be much easier if it could pull all due assignments for the week at once. In my interviewing of my target group, I found that a few of them did not even know that Brightspace had texting functionality at all. This is why I am choosing to extend this existing functionality in order to improve upon what is already there. The candidates that I interviewed were very receptive to the idea of extending the functionality. This is due to the fact that currently Brightspace only sends out emails a few days in advance for a given due date instead of allowing you to receive this information in text message or email form with all due dates for the week.  
 
+All in all, I believe that I will spend around 5 to 6 days to complete this project. I plan to begin with the design phase, breaking down each individual part of the project in order to make sure that I am using best practices within each part. I plan to spend the most time on the design phase in order to make sure that I am doing exactly what is needed to drive my project to completion. Next, I plan to begin the development phase which I assume will be the shortest time that I spend on the project. At each phase of the application's development, I will test the specific part that I am working on in order to ensure that it is working properly before moving on to the next phase of the process. Overall, I believe that this project is feasible and will provide immense value to my clients (Vanderbilt students) by making it easier to become even more organized than they currently are. 
 
 # Questions:
   1. Why do Vanderbilt students currently have to navigate to bright space to see what assignments are due this current week?
